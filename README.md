@@ -4,6 +4,14 @@ fOr wHeN YoU NeEd tO Do tHiS
 
 ## Running
 
+### Dockerhub
+
+This image is available on DockerHub and can be pulled from there directly.
+
+```
+docker run -d --rm -p 8080:80 yashdalfthegray/vicious-mockery
+```
+
 ### Dockerfile
 
 Run the following commands
